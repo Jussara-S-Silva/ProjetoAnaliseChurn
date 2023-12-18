@@ -10,6 +10,6 @@ Objetivo desta Análise: Mapear conjunto de caracteristicas dos clientes que can
 1. Importação de bibliotecas e dados
 2. Descrição de dados numéricos e categóricos
 3. Levantei hipóteses
-4. Concusão analisando as hipóteses e proposta de próximos passos.
+4. Concusão analise das hipóteses e proposta de próximos passos.
 
 Ficou com alguma dúvida ou gostaria de sugerir algo? Entre em contato comigo!
