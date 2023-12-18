@@ -1,7 +1,9 @@
 # Projeto Análise de Churn de Assinaturas
 
 Problema apresentado pelo negócio: A porcentagem de *Churn* (perda de qualquer usuário que assinou o serviço) de assinaturas está aumentando.
+
 Objetivo do Negócio: Obter insights para tomada de decisão com objetivo de reduzir o *Churn*.
+
 Objetivo desta Análise: Mapear conjunto de caracteristicas dos clientes que cancelam a assinatura para traçar estratégias específicas focadas neste púbico.
 
 ## Nesta análise realizei:
